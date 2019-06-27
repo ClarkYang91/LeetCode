@@ -1,2 +1,2 @@
 # LeetCode
-Java code of LeetCode questions.
+Java and Python code of LeetCode questions.
